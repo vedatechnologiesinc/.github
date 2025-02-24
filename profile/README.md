@@ -18,7 +18,7 @@ development systems and we deploy on macOS; GNU/Linux; and on the web.
 🐚️️️ Our engineers love to write (and talk) about random things, and they can be
 found at [ebzzry.com](https://ebzzry.com) and [eldriv.com](https://eldriv.com).
 
-🧠 The [white paper](https://github.com/krei-systems/white-paper/blob/main/white-paper.org)
+🧠 The [white paper](https://github.com/krei-systems/white-paper/blob/main/white-paper.pdf?raw=true)
 talks about approaches on how to reach some of the low-hanging fruits of general
 intelligence based on computationalism.
 
