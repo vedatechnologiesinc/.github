@@ -1,6 +1,6 @@
-# 🌊 Kʀᴇɪ Systems
+# 🌊 Krei Systems
 
-👋️ Hello, there! We're a software company that's pushing the boundaries of what
+👋️ Hello, there! We're a [software company](https://krei.systems) that's pushing the boundaries of what
 can be solved through computational means and with the current advancements of
 machines.
 
