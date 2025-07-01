@@ -1,6 +1,6 @@
-# Krei.Systems
+# VEDA
 
-👋️ Hello, there! We're a [software company](https://krei.systems) that's pushing the boundaries of what
+👋️ Hello, there! We're a software company that's pushing the boundaries of what
 can be solved through computational means and with the current advancements of
 machines.
 
@@ -8,8 +8,8 @@ machines.
 ourselves in our build and development systems. We primarily use
 [Lisp](https://lisp-lang.org), [Nix](https://nixos.org),
 [Clojure](https://clojure.org), [Racket](https://racket-lang.org),
-[Scheme](https://www.scheme.org/), and [OCaml](https://ocaml.org), to write
-software.
+[Scheme](https://www.scheme.org/), [OCaml](https://ocaml.org), and
+[Haskell](https://haskell.org) to write software.
 
 ❄️️ We use [macOS](https://en.wikipedia.org/wiki/MacOS) and
 [NixOS](https://nixos.org)—on aarch64, x86_64, and arm64—as our primary
@@ -18,7 +18,7 @@ development systems and we deploy on macOS; GNU/Linux; and on the web.
 🐚️️️ Our engineer(s) love to write (and talk) about random things, and they can be
 found at [ebzzry.com](https://ebzzry.com).
 
-🧠 The [white paper](https://github.com/krei-systems/white-paper/blob/main/white-paper.pdf?raw=true)
+🧠 The [white paper](https://github.com/veda-systems/white-paper/blob/main/white-paper.pdf?raw=true)
 talks about approaches on how to reach some of the low-hanging fruits of general
 intelligence based on computationalism.
 
