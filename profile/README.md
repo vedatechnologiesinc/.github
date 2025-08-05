@@ -7,9 +7,8 @@ machines.
 ☯️️ You can find in this page open source software that we wrote and we use
 ourselves in our build and development systems. We primarily use
 [Lisp](https://lisp-lang.org), [Nix](https://nixos.org),
-[Clojure](https://clojure.org), [Racket](https://racket-lang.org),
-[Scheme](https://www.scheme.org/), [OCaml](https://ocaml.org), and
-[Haskell](https://haskell.org) to write software.
+[Clojure](https://clojure.org), [Racket](https://racket-lang.org), and 
+[Scheme](https://www.scheme.org/) to build software.
 
 ❄️️ We use [macOS](https://en.wikipedia.org/wiki/MacOS) and
 [NixOS](https://nixos.org)—on aarch64, x86_64, and arm64—as our primary
