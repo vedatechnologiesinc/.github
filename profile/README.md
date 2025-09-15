@@ -21,5 +21,5 @@ intelligence based on computationalism.
 
 🏄️️️ Our headquarters is based in the tropical province of [La Union, Philippines](https://en.wikipedia.org/wiki/La_Union).
 
-🦑 You can find more about us [here](https://veda-tech.com)
+🦑 You can find more about us [on our website](https://veda-tech.com).
 
