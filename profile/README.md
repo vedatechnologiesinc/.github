@@ -12,9 +12,6 @@ ourselves in our build and development systems. We primarily use
 [NixOS](https://nixos.org)—on aarch64, x86_64, and arm64—as our primary
 development systems and we deploy on macOS; GNU/Linux; and on the web.
 
-🐚️️️ Our engineer(s) love to write (and talk) about random things, and they can be
-found at [ebzzry.com](https://ebzzry.com).
-
 🧠 The [white paper](https://github.com/vedatechnologiesinc/white-paper/blob/main/white-paper.pdf?raw=true)
 talks about approaches on how to reach some of the low-hanging fruits of general
 intelligence based on computationalism.
