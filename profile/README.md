@@ -1,4 +1,4 @@
-# Veda Technologies, Inc.
+# VEDA Technologies, Inc.
 
 👋️ Hello, there! We're a software company that's pushing the boundaries of what
 can be solved through computational means and with the current advancements of
