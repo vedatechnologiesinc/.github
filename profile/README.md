@@ -6,7 +6,7 @@ machines.
 
 ☯️️ You can find in this page open source software that we wrote and we use
 ourselves in our build and development systems. We primarily use
-[Lisp](https://lisp-lang.org), [Haskell](https://haskell.org), and [Nix](https://nixos.org).
+[Lisp](https://lisp-lang.org) and [Nix](https://nixos.org) to build our systems.
 
 ❄️️ We use [macOS](https://en.wikipedia.org/wiki/MacOS) and
 [NixOS](https://nixos.org)—on aarch64, x86_64, and arm64—as our primary
